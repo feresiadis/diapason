@@ -5,7 +5,7 @@ This bash script is designed to assist guitar players in tuning their instrument
 
 Features
 
-    Continuous Playback: The selected note plays continuously with an extended sustain time of 16 seconds, which mimics the sustain of a classical guitar.
+    Continuous Playback: The selected note plays continuously with an extended sustain time of 5 seconds, which mimics the sustain of a classical guitar.
     Immediate Repetition: After the note finishes playing, it repeats almost immediately, providing a seamless listening experience for tuning.
     Interactive Note Selection: Users can choose different notes interactively. The script remains active until the user explicitly exits.
     User-Friendly Interface: The available notes are displayed each time a note is played, making it easy for users to switch between notes.

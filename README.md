@@ -20,7 +20,7 @@ Usage
     Run the Script:
         Download or clone the repository containing the script.
         Open a terminal and navigate to the directory where the script is located.
-        Make the script executable by running: chmod +x guitar_tuner.sh.
+        Make the script executable by running: chmod +x diapason.sh.
         Execute the script by typing: ./guitar_tuner.sh.
 
     Select a Note:

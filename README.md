@@ -21,7 +21,7 @@ Usage
         Download or clone the repository containing the script.
         Open a terminal and navigate to the directory where the script is located.
         Make the script executable by running: chmod +x diapason.sh.
-        Execute the script by typing: ./guitar_tuner.sh.
+        Execute the script by typing: ./diapason.sh.
 
     Select a Note:
         After running the script, you'll be prompted to enter a musical note (e.g., C4, A3).

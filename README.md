@@ -2,6 +2,7 @@
 Guitar Tuner Script
 
 This bash script is designed to assist guitar players in tuning their instrument. The script allows users to select from a set of musical notes (C, D, E, F, G, A, B) across different octaves, and plays the selected note using a sine wave to emulate the sound of a guitar. The note will continue to play with minimal delay between repetitions until the user decides to change the note or exit the script.
+
 Features
 
     Continuous Playback: The selected note plays continuously with an extended sustain time of 16 seconds, which mimics the sustain of a classical guitar.

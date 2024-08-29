@@ -13,7 +13,7 @@ Features
 Prerequisites
 
     Operating System: Linux (should work on most Linux distributions).
-    Dependencies: Ensure that sox (Sound eXchange) is installed on your system. You can install it using the package manager for your distribution, e.g., sudo apt-get install sox.
+    Dependencies: Ensure that sox (Sound eXchange) is installed on your system.
 
 Usage
 

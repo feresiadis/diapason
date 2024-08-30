@@ -1,14 +1,15 @@
 # diapason
 Guitar Tuner Script
 
-This bash script is designed to assist guitar players in tuning their instrument. The script allows users to select from a set of musical notes (C, D, E, F, G, A, B) across different octaves, and plays the selected note using a sine wave to emulate the sound of a guitar. The note will continue to play with minimal delay between repetitions until the user decides to change the note or exit the script.
+The provided Bash script is a simple musical tuner that allows the user to play specific musical notes from different octaves. 
+It defines a set of notes along with their corresponding frequencies and enables the user to play these notes repeatedly until a key is pressed to either change the note or exit the program. 
+It is a simple tool for musicians who want to tune their instruments or practice ear training by repeatedly playing specific notes. 
 
-Features
+ Script Features
 
-    Continuous Playback: The selected note plays continuously with an extended sustain time of 5 seconds, which mimics the sustain of a classical guitar.
-    Immediate Repetition: After the note finishes playing, it repeats almost immediately, providing a seamless listening experience for tuning.
-    Interactive Note Selection: Users can choose different notes interactively. The script remains active until the user explicitly exits.
-    User-Friendly Interface: The available notes are displayed each time a note is played, making it easy for users to switch between notes.
+Notes Defined: The script defines notes from octaves 3 and 4, including common notes like C3, D4, A4, etc.
+Continuous Playback: Notes are played continuously in a loop until the user interrupts.
+Dynamic Note Selection: Users can dynamically select and change notes while the script is running.
 
 Prerequisites
 
@@ -17,16 +18,18 @@ Prerequisites
 
 Usage
 
-    Run the Script:
-        Download or clone the repository containing the script.
-        Open a terminal and navigate to the directory where the script is located.
-        Make the script executable by running: chmod +x diapason.sh.
-        Execute the script by typing: ./diapason.sh.
+Make the script executable: chmod +x diapason.sh
 
-    Select a Note:
-        After running the script, you'll be prompted to enter a musical note (e.g., C4, A3).
-        The script will continuously play the selected note until you press a key to interrupt it.
+Run the script: ./diapason.sh
 
-    Change Notes or Exit:
-        Press any key while a note is playing to stop it.
-        Enter a new note to continue tuning or type exit to quit the script.
+After running the script, it will display a list of available notes that you can play.
+You will be prompted to enter a note (e.g., C4, A3).
+The script will play the selected note continuously at its defined frequency.
+To change the note, press any key while the note is playing, then enter a new note.
+To exit the tuner, type exit.
+
+Example Usage
+
+When prompted, enter A4 to play the A4 note at 440 Hz.
+Press any key to stop the note and change to another one.
+Enter exit to stop the script.

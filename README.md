@@ -1,6 +1,6 @@
 # diapason
 
-Guitar Tuner Script [diapason](https://www.oed.com/dictionary/diapason_n?tl=true)
+Guitar Tuner Script
 
 The provided Bash script is a simple musical tuner that allows the user to play specific musical notes from different octaves. 
 It defines a set of notes along with their corresponding frequencies and enables the user to play these notes repeatedly until a key is pressed to either change the note or exit the program. 

@@ -1,5 +1,5 @@
 # diapason
-https://www.oed.com/dictionary/diapason_n?
+https://www.oed.com/dictionary/diapason_n
 
 Guitar Tuner Script
 

@@ -1,5 +1,4 @@
 # diapason
-https://www.oed.com/dictionary/diapason_n
 
 Guitar Tuner Script
 
@@ -7,7 +6,7 @@ The provided Bash script is a simple musical tuner that allows the user to play 
 It defines a set of notes along with their corresponding frequencies and enables the user to play these notes repeatedly until a key is pressed to either change the note or exit the program. 
 It is a simple tool for musicians who want to tune their instruments or practice ear training by repeatedly playing specific notes. 
 
- Script Features
+Script Features
 
 Notes Defined: The script defines notes from octaves 3 and 4, including common notes like C3, D4, A4, etc.
 Continuous Playback: Notes are played continuously in a loop until the user interrupts.
